@@ -14,5 +14,28 @@ ________________________________________________________________________
   # Уборка мусора
 Робот собирает объекты «зерна» при соприкосновении с ними (объекты исчезают).
 
+![image](https://github.com/user-attachments/assets/17469f24-adbb-492a-b932-ce36a0056d04)
+![image](https://github.com/user-attachments/assets/c34f0223-ec1c-4035-b0cc-b81de226d8eb)
+
+
+# Реализация 
 Unity (C#): реализация логики управления, физики и взаимодействий.
 Rigidbody и Collider: для реалистичного перемещения и обнаружения столкновений.
+  # Скрипт для слежения за роботом
+![image](https://github.com/user-attachments/assets/3315d8ee-ec65-45b6-8878-51426d544df9)
+  # Скрипт для зума и переключения между камерами
+![image](https://github.com/user-attachments/assets/a8bcc731-0fe3-47f8-ac4d-023df8008879)
+  # Скрипт для движения
+![image](https://github.com/user-attachments/assets/9ef40c84-b342-460a-b707-5d4c188b8995)
+  # Скрипт для сбора мусора
+![image](https://github.com/user-attachments/assets/d5cf129f-d636-4200-8825-beb5c1fbcdb9)
+
+
+
+# Стек технологий
+-Blender
+-Unity Hub
+-Windows
+-Visual Studio 2019
+
+
